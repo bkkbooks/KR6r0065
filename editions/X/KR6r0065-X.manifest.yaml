@@ -1,0 +1,108 @@
+canonical_identifier: bkk:krp/KR6r0065/X/v1
+canonical_location: https://kanripo.org/bkk/KR6r0065/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 續武林西湖高僧事略
+  identifiers:
+    krp: KR6r0065
+    cbeta: X77n1527
+    cbeta_old_id: X77n1527
+    authorityid: CA0001134
+    json_key: X1527
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X77/X77n1527.xml
+    old_id: X77n1527
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0065_000-X.yaml, hash: 'sha256:fd9b18d9a1b5c2e48918c27aff5e84337ce578cd2ce0f951ac9fdbc7c545aaa8'}
+  - {seq: 1, filename: KR6r0065_001-X.yaml, hash: 'sha256:686bd9c1d6591c02b0c0396d466e472bbfba2aa4746d60eba6b06251174bfe2e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0065_000-X.markers.yaml, hash: 'sha256:1d7cba0e1291c212f693205413ae66b97b8eb0a2392d7de574e8594285da2d4b'}
+  - {seq: 1, role: markers, filename: assets/KR6r0065_001-X.markers.yaml, hash: 'sha256:3f8bb6f5972c6f91fd991bba804f2baef702273f32b29693c85f02a01892186a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0065_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1527-A 續武林西湖高僧事略
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0065_X_000-mulu-2
+    span:
+    - front
+    - 163
+    - 163
+  label: 續補諸師目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0065_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 1261
+  label: 續武林西湖高僧事略
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0065_X_001-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 大明性原朗禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0065_X_001-mulu-2
+    span:
+    - body
+    - 259
+    - 259
+  label: 大明楚石琦禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0065_X_001-mulu-3
+    span:
+    - body
+    - 569
+    - 569
+  label: 大明空谷隆禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0065_X_001-mulu-4
+    span:
+    - body
+    - 786
+    - 786
+  label: 大明毒峯善禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0065_X_001-mulu-5
+    span:
+    - body
+    - 1018
+    - 1018
+  label: 大明雪庭某禪師
+  type: mulu
+  level: 1
+hash: sha256:802db569fa0727f8efba25a423f8b3d5d47941b0b49cc965297b881b47813363
