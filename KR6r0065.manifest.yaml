@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0065_000.yaml, hash: 'sha256:312520f586caeba0c23284d66e479b9fabfb305c63eaacd7c2002f0d2d505858'}
-  - {seq: 1, filename: KR6r0065_001.yaml, hash: 'sha256:9b13bb4aab1ec141c7042390b348833fab2d4e768cbf1ea11254afe24db19863'}
+  - {seq: 0, filename: KR6r0065_000.yaml, hash: 'sha256:fd9b18d9a1b5c2e48918c27aff5e84337ce578cd2ce0f951ac9fdbc7c545aaa8'}
+  - {seq: 1, filename: KR6r0065_001.yaml, hash: 'sha256:686bd9c1d6591c02b0c0396d466e472bbfba2aa4746d60eba6b06251174bfe2e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0065_000.markers.yaml, hash: 'sha256:6976e4e0ee6bb94cfeb917b42abbabfbe3374e40462eb8daf875645b6fb2733c'}
-  - {seq: 1, role: markers, filename: assets/KR6r0065_001.markers.yaml, hash: 'sha256:08b5085164a3263ff666223d6f47756db81baf9f8682e42148ecc76a343c0cd3'}
+  - {seq: 0, role: markers, filename: assets/KR6r0065_000.markers.yaml, hash: 'sha256:fb95eba307d3ac09d5e8bd4bf458881adcaa86cc2f7cbd509d817c784ec0b785'}
+  - {seq: 1, role: markers, filename: assets/KR6r0065_001.markers.yaml, hash: 'sha256:e1f2be0018840e582a64b99c718d3b6b3c049bd712dccb79a06171ede8990939'}
 table_of_contents:
 - ref:
     seq: 0
@@ -107,7 +107,4 @@ table_of_contents:
   label: 大明雪庭某禪師
   type: mulu
   level: 1
-hash: sha256:e66e2e7e21d124f093f5a3a82b375c90a060a3a0a6ef6b2509ff645721da4627
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2bbbfa112ae1d399e4f93c81bdaa6b23d1073b5a3469c2b351f812977457711e
