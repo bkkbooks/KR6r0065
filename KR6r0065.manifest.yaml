@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6r0065/v1
 canonical_location: https://kanripo.org/bkk/KR6r0065/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 續武林西湖高僧事略
   identifiers:
@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0065_000.yaml, hash: 'sha256:fd9b18d9a1b5c2e48918c27aff5e84337ce578cd2ce0f951ac9fdbc7c545aaa8'}
-  - {seq: 1, filename: KR6r0065_001.yaml, hash: 'sha256:686bd9c1d6591c02b0c0396d466e472bbfba2aa4746d60eba6b06251174bfe2e'}
+  - {seq: 0, filename: KR6r0065_000.yaml, hash: 'sha256:d4a7e462e006357723c72398543f1b6bef6a849957f1fded6e8eb71de9349406'}
+  - {seq: 1, filename: KR6r0065_001.yaml, hash: 'sha256:c7b3aa0380688cdbabb1d7a19443cd8348703c33ae404dfdb6e97cc420139d28'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0065_000.markers.yaml, hash: 'sha256:fb95eba307d3ac09d5e8bd4bf458881adcaa86cc2f7cbd509d817c784ec0b785'}
-  - {seq: 1, role: markers, filename: assets/KR6r0065_001.markers.yaml, hash: 'sha256:e1f2be0018840e582a64b99c718d3b6b3c049bd712dccb79a06171ede8990939'}
+  - {seq: 0, role: markers, filename: assets/KR6r0065_000.markers.yaml, hash: 'sha256:217fbed87d587106d8b8862fa398f0b8c473bfabfcf148bf56c7898af6cd296e'}
+  - {seq: 1, role: markers, filename: assets/KR6r0065_001.markers.yaml, hash: 'sha256:b6b0c867a2bfe7a4df56e17b4096750c32e056b2f946814f7b8ddbb2309b602a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -107,4 +107,7 @@ table_of_contents:
   label: 大明雪庭某禪師
   type: mulu
   level: 1
-hash: sha256:2bbbfa112ae1d399e4f93c81bdaa6b23d1073b5a3469c2b351f812977457711e
+hash: sha256:d71eeabf62ef1ce58f4d7cd24ebc46768ba91136c8a254cf68e90cf722e10446
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
