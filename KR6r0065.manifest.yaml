@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0065_000.yaml, hash: 'sha256:d4a7e462e006357723c72398543f1b6bef6a849957f1fded6e8eb71de9349406'}
+  - {seq: 0, filename: KR6r0065_000.yaml, hash: 'sha256:7a947ed96655328b1992c2440e0ae8083e5dc3b4c8b01c48c674e18fd66c6ce8'}
   - {seq: 1, filename: KR6r0065_001.yaml, hash: 'sha256:c7b3aa0380688cdbabb1d7a19443cd8348703c33ae404dfdb6e97cc420139d28'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0065_000.markers.yaml, hash: 'sha256:217fbed87d587106d8b8862fa398f0b8c473bfabfcf148bf56c7898af6cd296e'}
+  - {seq: 0, role: markers, filename: assets/KR6r0065_000.markers.yaml, hash: 'sha256:8c9c5c90a3e6f32da234bc95612a0ca8163d21a1ad4adb0981f8ca52c19b6bc9'}
   - {seq: 1, role: markers, filename: assets/KR6r0065_001.markers.yaml, hash: 'sha256:b6b0c867a2bfe7a4df56e17b4096750c32e056b2f946814f7b8ddbb2309b602a'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6r0065_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1527-A 續武林西湖高僧事略
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0065_X_000-mulu-2
     span:
-    - front
+    - body
     - 163
     - 163
   label: 續補諸師目錄
@@ -107,7 +107,7 @@ table_of_contents:
   label: 大明雪庭某禪師
   type: mulu
   level: 1
-hash: sha256:d71eeabf62ef1ce58f4d7cd24ebc46768ba91136c8a254cf68e90cf722e10446
+hash: sha256:878dca1d8c26fe28ccbf26dfaa10c3a4857800846f83bab6cd1fb5367a04afc9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
